@@ -3,7 +3,7 @@ function ContactUs() {
     <section className="py-16 bg-gray-100 font-poppins dark:bg-gray-900">
     <div className="justify-center flex-1 max-w-5xl px-4 py-4 mx-auto lg:py-10 md:px-7">
         <div className="max-w-xl mx-auto">
-            <div className="text-center ">
+            <div className="text-center mt-5">
                 <div className="relative flex flex-col items-center">
                     <div
                         className="absolute hidden md:block -top-14 left-0 text-[120px] text-gray-400 font-bold opacity-10">
