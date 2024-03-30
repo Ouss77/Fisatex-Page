@@ -15,7 +15,7 @@ function Home() {
             <div className="md:w-1/2">
                 <h1 className="text-5xl font-semibold mb-4 text-neutralDGray md:w-3/4 leading-snug">Quality & Experience
                 <span className="text-brandPrimary leading-snug"> from 10 years</span></h1>
-                <p className="text-neutralGray text-base mb-8">Order one for you and test it..</p>
+                <p className="text-neutralGray text-base mb-8">Order one for you and test it Now..</p>
                 <button className="btn-primary">Contact Us</button>
             </div>
           </div>
